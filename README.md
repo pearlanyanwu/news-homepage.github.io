@@ -41,7 +41,7 @@ I learned how to create a right-sided side navigation (mobile) and convert it to
 
 ### Continued development
 
-Checking mobile display first.
+Checking mobile display first before I see what can be improved.
 
 ### Useful resources
 
